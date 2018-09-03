@@ -230,7 +230,7 @@ body{
 .bmenu{
 	padding: 50px 0px;
 	margin-top: 10%;
-	margin-left: 29%;
+	margin-left: 28%;
 	position: relative;
 	background: rgba(0,0,0,0.7);
 	width: 500px;
@@ -300,6 +300,7 @@ body{
 /*project.html style*/
 .container{
 	background-color: #000;
+
 }
 
 .ca-menu{
