@@ -230,7 +230,7 @@ body{
 .bmenu{
 	padding: 50px 0px;
 	margin-top: 10%;
-	margin-left: 30%;
+	margin-left: 29%;
 	position: relative;
 	background: rgba(0,0,0,0.7);
 	width: 500px;
@@ -371,7 +371,7 @@ body{
 	padding: 5px;
 	margin:20px auto;
     border:3px double  rgba(150, 4, 31, 0.8);
-    width: 960px;
+    width: 900px;
 }
 hr{
 	border-color:rgba(150, 4, 31, 0.8);
