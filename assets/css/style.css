@@ -306,8 +306,8 @@ body{
 	
 	list-style-type: none;
     padding: 0;
-	height: 250px;
-	width: 250px;
+	height: 200px;
+	width: 200px;
 	position: relative;
 	float: left;
 	margin :20px 30px;
@@ -315,8 +315,8 @@ body{
 }
 .ca-menu img{
 	border:rgba(150, 4, 31, 0.8) double 3px;
-	width: 250px;
-	height: 250px;
+	width: 200px;
+	height: 200px;
 	float: left;
 }
 
